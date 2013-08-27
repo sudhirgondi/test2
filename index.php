@@ -82,7 +82,7 @@ require_once("include/db_connection.php");
 <body>
 <div id="wrapper">
     <p>Notes</p>
-<!-- Adding a comment for Github testing -->
+    
 	<div id="my_notes">
 <?php 
 
