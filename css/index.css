@@ -1,0 +1,42 @@
+
+
+#wrapper{
+	width: 960px;
+	margin: 0px auto;
+	/*border: 1px solid gray;*/
+}
+
+#my_posts{
+	display: relative;
+	height: 620px;
+	overflow-y: auto;
+	margin-bottom: 10px;
+}
+
+.display_note{
+	width: 260px;
+	margin: 5px;
+	height: 300px;
+	border-top: 1px solid black;
+	padding: 5px;
+	/*background-color: #FDFDC8;*/
+	overflow-y: auto;
+	float: left;
+}
+
+	.display_note p{
+		float: left;
+	}
+
+	.display_note a{
+		float: right;
+		margin: 15px 10px;
+	}
+
+form{
+	margin: 10px;
+}
+
+.clear{
+	clear: both;
+}
