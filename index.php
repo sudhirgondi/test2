@@ -8,7 +8,7 @@ require_once("include/db_connection.php");
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Coding Dojo</title>
+	<title>Coding Dojo - Github testing</title>
 	<link rel="stylesheet" type="text/css" href="css/index.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<!-- <script type="text/javascript" src="jquery-1.10.2.min.js"></script><br> -->
@@ -81,9 +81,8 @@ require_once("include/db_connection.php");
 </head>
 <body>
 <div id="wrapper">
-    <h1>Github Test update!!!</h1>
     <p>Notes</p>
-
+<!-- Adding a comment for Github testing -->
 	<div id="my_notes">
 <?php 
 
